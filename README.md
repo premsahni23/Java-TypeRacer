@@ -32,6 +32,14 @@ A fully functional **Monkeytype-style typing game** built in **JavaFX**, featuri
 - **Maven** for dependency management
 
 ---
+## 🧰 Built With
+
+- [JavaFX](https://openjfx.io/)
+- [MySQL](https://www.mysql.com/)
+- [Maven](https://maven.apache.org/)
+- [SceneBuilder](https://gluonhq.com/products/scene-builder/) (for UI design)
+  
+---
 
 ## 🗄️ Database Schema
 
